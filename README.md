@@ -23,7 +23,7 @@ O arquivo `produto.json` será gerado com todos os dados extraídos.
 - `scraper.py`: Script principal que realiza o web scraping
 - `requirements.txt`: Dependências do projeto
 - `produto.json`: Arquivo JSON gerado com os dados extraídos
-- `.gitgnore`: Arquivo para definir quais arquivos ignorar
+- `.gitignore`: Arquivo para definir quais arquivos ignorar
 
 ## Dados Extraídos
 
@@ -36,5 +36,5 @@ O arquivo `produto.json` contém todos os tópicos cobrados na tabela abaixo, re
 - **BeautifulSoup**: Para parsing do HTML
 - **Requests**: Para requisições HTTP
 - **Python 3.13+**
-- **Claude Haiku 4.5**: Para auxiliar na construção do projeto
-- **Gemini 3.5 Flash**: Para dúvidas simples e revisão
+- **Claude 3.5**: Para auxiliar na construção do projeto
+- **Gemini 1.5**: Para dúvidas simples e revisão
